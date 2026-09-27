@@ -1,7 +1,7 @@
 export const profile = {
-  name: "Your Name",
-  firstName: "Your",
-  lastName: "Name",
+  name: "Amir",
+  firstName: "Amir",
+  lastName: "Jafari",
   role: "Junior Frontend Developer",
   tagline:
     "Building clean, responsive and user-friendly web interfaces with a developer mindset.",
