@@ -6,7 +6,7 @@ export const profile = {
   tagline:
     "Building clean, responsive and user-friendly web interfaces with a developer mindset.",
   location: "Tehran, Iran · Available worldwide",
-  email: "you@example.com",
+  email: "amirhosseinj969@gmail.com",
   bio: [
     "I'm a Junior Frontend Developer who loves turning designs into fast, accessible and responsive web experiences. I care about clean code, semantic HTML and the small details that make an interface feel polished and easy to use.",
     "I'm currently focusing on React projects — building real, practical applications and improving my component-thinking along the way. I'm actively looking for remote and freelance opportunities where I can grow, contribute and ship meaningful products.",
