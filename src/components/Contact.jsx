@@ -11,19 +11,19 @@ const methods = [
   },
   {
     label: "Telegram",
-    value: "@yourusername",
+    value: "@Amirhassan4444",
     href: profile.links.telegram,
     icon: FiSend,
   },
   {
     label: "LinkedIn",
-    value: "in/yourusername",
+    value: "amirhassan jafari",
     href: profile.links.linkedin,
     icon: FiLinkedin,
   },
   {
     label: "GitHub",
-    value: "github.com/yourusername",
+    value: "github.com/amirapril",
     href: profile.links.github,
     icon: FiGithub,
   },
