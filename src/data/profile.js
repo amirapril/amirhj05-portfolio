@@ -22,10 +22,10 @@ export const profile = {
   learningMindset:
     "I treat every project as a chance to sharpen my craft. I'm working toward a strong foundation in React, modern JavaScript, and accessible interfaces — and I love researching new tools and applying what I learn in small, sensible steps.",
   links: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://www.linkedin.com/in/yourusername",
-    telegram: "https://t.me/yourusername",
-    email: "mailto:you@example.com",
+    github: "https://github.com/amirapril",
+    linkedin: "https://www.linkedin.com/in/amirhassan-jafari-135896399",
+    telegram: "https://t.me/@Amirhassan4444",
+    email: "aa4546964@gmail.com",
   },
   availability: "Open to remote · freelance · junior frontend roles",
 };
