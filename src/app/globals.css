@@ -168,7 +168,7 @@ a:hover {
   font-size: 0.95rem;
   border: none;
   cursor: pointer;
-  color: black
+  color: black;
   background: linear-gradient(135deg, var(--accent), var(--accent-2));
   box-shadow: 0 8px 22px -8px var(--glow);
   transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
