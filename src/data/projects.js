@@ -22,9 +22,9 @@ export const projects = [
     description:
       "A focused productivity app with add, edit, complete and filter tasks. LocalStorage persistence keeps the experience fast and dependency-free.",
     tech: ["React", "Bootstrap", "Hooks"],
-    live: "#",
+    live: "https://incandescent-puffpuff-be3bb7.netlify.app/login",
     github: "#",
-    image: "/projects/tasks.svg",
+    image: "/projects/admin-dash.svg",
   },
   {
     title: "Landing Page — Design Studio",
