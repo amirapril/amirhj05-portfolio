@@ -47,12 +47,12 @@ export const skills = [
   {
     group: "Tools",
     icon: "wrench",
-    items: ["Git", "GitHub", "VS Code", "npm", "Figma", "Chrome DevTools"],
+    items: ["Git", "GitHub", "VS Code", "npm"],
   },
   {
     group: "Currently Learning",
     icon: "book",
-    items: ["REST APIs", "Next.js", "TypeScript", "Tailwind CSS", "Testing"],
+    items: ["REST APIs", "Next.js", "Tailwind CSS", "Testing"],
   },
 ];
 
