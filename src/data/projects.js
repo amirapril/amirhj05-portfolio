@@ -23,7 +23,7 @@ export const projects = [
       "A focused productivity app with add, edit, complete and filter tasks. LocalStorage persistence keeps the experience fast and dependency-free.",
     tech: ["React", "Bootstrap", "Hooks"],
     live: "https://admin-dash-amir.netlify.app/login",
-    github: "#",
+    github: "https://github.com/amirapril/admin-dash-amir",
     image: "/projects/admin-dash.png",
   },
   {
